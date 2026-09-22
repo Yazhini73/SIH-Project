@@ -1,0 +1,3 @@
+{% extends 'layout.html' %}
+{% block title %}FeedSense AI | Dashboard{% endblock %}
+{% block content %}<section class="page-heading"><p class="eyebrow">Dashboard</p><h1>Recent analysis</h1></section><div id="dashboard-content" class="feature-grid"><p>Loading history...</p></div>{% endblock %}{% block scripts %}<script src="{{ url_for('static', filename='js/history.js') }}"></script>{% endblock %}

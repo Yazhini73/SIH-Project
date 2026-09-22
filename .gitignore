@@ -1,0 +1,12 @@
+venv/
+.venv/
+.venv-1/
+__pycache__/
+*.py[cod]
+*.pkl
+.env
+uploads/*
+reports/*
+!reports/history.json
+!uploads/.gitkeep
+!reports/.gitkeep

@@ -1,0 +1,10 @@
+{% extends 'layout.html' %}
+{% block title %}FeedSense AI | Results{% endblock %}
+{% block content %}
+<section class="page-heading"><p class="eyebrow">Results</p><h1>Analysis result</h1><div class="toolbar"><label for="language">Language</label><select id="language"><option value="en">English</option><option value="ta">தமிழ்</option></select><button class="button secondary" id="read-result">Read result</button><button class="button secondary" id="download-report">Generate PDF</button></div><p id="voice-message" class="message" role="alert"></p></section>
+<section id="overall" class="overall empty">No completed analysis loaded.</section>
+<section id="result-grid" class="result-grid"></section>
+<section class="page-heading" aria-labelledby="graph-heading"><h2 id="graph-heading">Feed Quality Analysis</h2><canvas id="analysis-graph" height="280" role="img"></canvas></section>
+<section class="page-heading" aria-labelledby="summary-heading"><h2 id="summary-heading">Final Analysis Summary</h2><p><strong>English</strong></p><p id="summary-en"></p><p><strong>தமிழ்</strong></p><p id="summary-ta"></p></section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/results.js') }}"></script>{% endblock %}

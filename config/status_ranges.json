@@ -1,0 +1,70 @@
+{
+  "ph": {
+    "source": "dataset/ph/ph_reference.csv semantic boundaries",
+    "good": [
+      {"min": 5.5, "max": 7.0}
+    ],
+    "moderate": [
+      {"min": 3.5, "max": 5.4},
+      {"min": 7.1, "max": 8.0}
+    ],
+    "bad": [
+      {"min": 1.0, "max": 3.4},
+      {"min": 8.1, "max": 10.0}
+    ]
+  },
+  "ammonia": {
+    "source": "dataset/ammonia/ammonia_reference.csv Range column",
+    "good": [
+      {"min": 0.0, "max": 5.5}
+    ],
+    "moderate": [
+      {"min": 6.0, "max": 9.0}
+    ],
+    "bad": [
+      {"min": 10.0, "max": 35.0}
+    ]
+  },
+  "protein": {
+    "source": "dataset/protein/protein_reference.csv Range column",
+    "good": [
+      {"min": 10.0, "max": 15.5}
+    ],
+    "moderate": [
+      {"min": 7.0, "max": 9.5}
+    ],
+    "bad": [
+      {"min": 2.0, "max": 6.5},
+      {"min": 16.0, "max": 26.5}
+    ]
+  },
+  "moisture": {
+    "source": "User-provided moisture reference thresholds",
+    "good": [
+      {"min": 10.0, "max": 14.999999}
+    ],
+    "moderate": [
+      {"min": 15.0, "max": 20.0}
+    ],
+    "bad": [
+      {"min": 20.000001, "max": 1000000.0}
+    ],
+    "details": {
+      "GOOD": {
+        "condition": "Moisture is within the preferred range.",
+        "problem": "No immediate moisture concern.",
+        "remedy": "Maintain current storage conditions."
+      },
+      "MODERATE": {
+        "condition": "Moisture is moderately elevated.",
+        "problem": "Monitor storage and feed stability.",
+        "remedy": "Review drying and storage conditions."
+      },
+      "BAD": {
+        "condition": "Moisture is above the acceptable range.",
+        "problem": "Higher moisture may affect feed quality and storage stability.",
+        "remedy": "Review drying and storage immediately."
+      }
+    }
+  }
+}

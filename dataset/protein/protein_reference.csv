@@ -1,0 +1,51 @@
+No.,Color,Protein (%),Range,Condition,Problem,Remedy
+1,Very Pale Blue,2,Very Low,Very Low Protein,Protein deficiency,Improve protein-rich feed
+2,Very Pale Blue,2.5,Very Low,Very Low Protein,Poor nutritional value,Check feed formulation
+3,Pale Blue,3,Very Low,Very Low Protein,Low protein content,Add suitable protein source
+4,Pale Blue,3.5,Very Low,Very Low Protein,Inadequate protein,Reformulate ration
+5,Light Blue,4,Low,Low Protein,Reduced protein supply,Increase protein source
+6,Light Blue,4.5,Low,Low Protein,Nutritional imbalance,Check ration
+7,Light Blue,5,Low,Low Protein,Protein shortage,Add protein-rich ingredient
+8,Light Blue,5.5,Low,Low Protein,Low feed quality,Verify ingredients
+9,Light Blue-Violet,6,Low,Low Protein,Insufficient protein,Improve formulation
+10,Light Blue-Violet,6.5,Low,Low Protein,Low protein availability,Check feed composition
+11,Violet-Blue,7,Moderate,Moderate Protein,Moderate protein level,Maintain/adjust ration
+12,Violet-Blue,7.5,Moderate,Moderate Protein,Acceptable but monitor,Monitor feed quality
+13,Violet,8,Moderate,Moderate Protein,Moderate protein,Maintain balanced ration
+14,Violet,8.5,Moderate,Moderate Protein,Moderate protein,Check animal requirement
+15,Violet,9,Moderate,Moderate Protein,Moderate protein,Maintain balanced feed
+16,Violet,9.5,Moderate,Moderate Protein,Moderate protein,Monitor regularly
+17,Purple,10,Adequate,Adequate Protein,Adequate level,Maintain feed formulation
+18,Purple,10.5,Adequate,Adequate Protein,Adequate level,Maintain ration
+19,Purple,11,Adequate,Adequate Protein,Good protein level,Continue monitoring
+20,Purple,11.5,Adequate,Adequate Protein,Good protein level,Maintain formulation
+21,Purple,12,Adequate,Adequate Protein,Adequate protein,Maintain balanced feed
+22,Purple,12.5,Adequate,Adequate Protein,Adequate protein,Maintain ration
+23,Deep Purple,13,Adequate,Adequate Protein,Good protein level,Continue current formulation
+24,Deep Purple,13.5,Adequate,Adequate Protein,Good protein level,Monitor feed quality
+25,Deep Purple,14,Adequate,Adequate Protein,Adequate protein,Maintain ration
+26,Deep Purple,14.5,Adequate,Adequate Protein,Adequate protein,Maintain formulation
+27,Deep Purple,15,Adequate,Adequate Protein,Good protein level,Continue monitoring
+28,Deep Purple,15.5,Adequate,Adequate Protein,Good protein level,Maintain feed
+29,Purple-Magenta,16,High,High Protein,Protein level high,Check ration balance
+30,Purple-Magenta,16.5,High,High Protein,Excess protein possible,Review formulation
+31,Purple-Magenta,17,High,High Protein,High protein,Adjust protein source if needed
+32,Purple-Magenta,17.5,High,High Protein,Protein above target,Recheck ration
+33,Dark Purple,18,High,High Protein,High protein level,Check dietary requirement
+34,Dark Purple,18.5,High,High Protein,High protein level,Review feed formulation
+35,Dark Purple,19,High,High Protein,Excess protein possible,Adjust ration
+36,Dark Purple,19.5,High,High Protein,High protein,Confirm by laboratory test
+37,Very Dark Purple,20,Very High,Very High Protein,Very high protein,Recheck formulation
+38,Very Dark Purple,20.5,Very High,Very High Protein,Excess protein possible,Reduce excess protein source
+39,Very Dark Purple,21,Very High,Very High Protein,Very high level,Review complete ration
+40,Very Dark Purple,21.5,Very High,Very High Protein,High protein concentration,Laboratory confirmation
+41,Deep Violet,22,Very High,Very High Protein,Very high protein,Check sample and formulation
+42,Deep Violet,22.5,Very High,Very High Protein,Excess protein possible,Review feed ingredients
+43,Deep Violet,23,Very High,Very High Protein,Very high level,Recheck sample
+44,Deep Violet,23.5,Very High,Very High Protein,High protein concentration,Confirm with standard method
+45,Dark Violet,24,Very High,Very High Protein,Very high protein,Review ration
+46,Dark Violet,24.5,Very High,Very High Protein,Excess protein possible,Adjust formulation
+47,Dark Violet,25,Very High,Very High Protein,Very high protein,Laboratory verification
+48,Dark Violet,25.5,Very High,Very High Protein,High concentration,Check sample preparation
+49,Extremely Dark Violet,26,Very High,Very High Protein,Very high protein,Confirm by calibration
+50,Extremely Dark Violet,26.5,Very High,Very High Protein,Very high concentration,Laboratory confirmation

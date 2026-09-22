@@ -1,0 +1,51 @@
+No.,Color,pH,Range,Condition,Problem,Remedy
+1,Dark red,1,Acidic,Very acidic,Strong acidity,Check sample and test procedure
+2,Red,1.5,Acidic,Very acidic,Strong acidity,Check sample and storage
+3,Red-orange,2,Acidic,Highly acidic,Excess acidity,Check feed condition
+4,Orange-red,2.5,Acidic,Highly acidic,Excess acidity,Check fermentation
+5,Orange,3,Acidic,Highly acidic,High acidity,Check fermentation/storage
+6,Orange-yellow,3.5,Acidic,Strongly acidic,Excess acidity,Monitor feed quality
+7,Yellow-orange,4,Acidic,Acidic,High acidity,Check fermentation
+8,Yellow,4.5,Acidic,Acidic,Acidic condition,Check feed condition
+9,Yellow,5,Acidic,Moderately acidic,Possible quality change,Monitor feed
+10,Yellow-green,5.5,Acidic,Slightly acidic,Possible change,Monitor feed
+11,Yellow-green,5.6,Acidic,Slightly acidic,Low concern,Monitor
+12,Light green,5.7,Acidic,Slightly acidic,Low concern,Monitor
+13,Light green,5.8,Acidic,Slightly acidic,Low concern,Monitor
+14,Green-yellow,5.9,Acidic,Near neutral,Low concern,Monitor
+15,Green-yellow,6,Acidic,Near neutral,Low concern,Continue monitoring
+16,Green,6.1,Acidic,Near neutral,Low concern,Continue monitoring
+17,Green,6.2,Acidic,Near neutral,Low concern,Continue monitoring
+18,Green,6.3,Acidic,Near neutral,Low concern,Maintain storage
+19,Green,6.4,Acidic,Near neutral,Low concern,Maintain storage
+20,Green,6.5,Acidic,Near neutral,Low concern,Maintain storage
+21,Green,6.6,Acidic,Near neutral,Low concern,Maintain storage
+22,Green,6.7,Acidic,Near neutral,Low concern,Maintain storage
+23,Green,6.8,Acidic,Near neutral,Low concern,Maintain storage
+24,Green,6.9,Acidic,Almost neutral,Low concern,Continue monitoring
+25,Green,7,Neutral,Neutral,No pH concern,Continue monitoring
+26,Green-blue,7.1,Alkaline,Slightly alkaline,Possible change,Monitor
+27,Green-blue,7.2,Alkaline,Slightly alkaline,Possible change,Monitor
+28,Blue-green,7.3,Alkaline,Slightly alkaline,Possible change,Check storage
+29,Blue-green,7.4,Alkaline,Slightly alkaline,Possible change,Check storage
+30,Blue-green,7.5,Alkaline,Slightly alkaline,Possible change,Check storage
+31,Light blue-green,7.6,Alkaline,Alkaline,Quality change possible,Inspect feed
+32,Light blue,7.7,Alkaline,Alkaline,Quality change possible,Inspect feed
+33,Light blue,7.8,Alkaline,Alkaline,Quality change possible,Inspect feed
+34,Light blue,7.9,Alkaline,Alkaline,Quality change possible,Inspect feed
+35,Blue,8,Alkaline,Alkaline,Possible deterioration,Check feed
+36,Blue,8.1,Alkaline,Alkaline,Possible deterioration,Check feed
+37,Blue,8.2,Alkaline,Alkaline,Quality concern,Additional testing
+38,Blue,8.3,Alkaline,Alkaline,Quality concern,Additional testing
+39,Blue,8.4,Alkaline,Alkaline,Quality concern,Additional testing
+40,Dark blue,8.5,Alkaline,Strongly alkaline,Strong quality concern,Additional testing
+41,Dark blue,8.6,Alkaline,Strongly alkaline,Strong quality concern,Isolate sample
+42,Dark blue,8.7,Alkaline,Strongly alkaline,Strong quality concern,Isolate sample
+43,Dark blue,8.8,Alkaline,Strongly alkaline,Strong quality concern,Isolate sample
+44,Dark blue,8.9,Alkaline,Strongly alkaline,Strong quality concern,Isolate sample
+45,Dark blue,9,Alkaline,Highly alkaline,Serious concern,Additional testing
+46,Very dark blue,9.2,Alkaline,Highly alkaline,Serious concern,Do not rely on pH alone
+47,Very dark blue,9.4,Alkaline,Highly alkaline,Serious concern,Additional testing
+48,Very dark blue,9.6,Alkaline,Highly alkaline,Serious concern,Isolate sample
+49,Very dark blue,9.8,Alkaline,Highly alkaline,Serious concern,Additional testing
+50,Dark violet-blue,10,Alkaline,Very highly alkaline,Serious concern,Do not feed until assessed

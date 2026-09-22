@@ -1,0 +1,692 @@
+[
+  {
+    "created_at": "2026-09-15T07:03:35.005823+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 4.5,
+      "unit": "pH",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "",
+      "problem": "",
+      "remedy": ""
+    },
+    "ammonia": {
+      "value": 1.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "",
+      "problem": "",
+      "remedy": ""
+    },
+    "protein": {
+      "value": 7.0,
+      "unit": "%",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "",
+      "problem": "",
+      "remedy": ""
+    },
+    "moisture": {
+      "value": 12.5,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "reason": "Ph requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T07:03:53.995981+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 4.5,
+      "unit": "pH",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Acidic",
+      "problem": "Acidic condition",
+      "remedy": "Check feed condition"
+    },
+    "ammonia": {
+      "value": 1.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Low",
+      "problem": "Low ammonia",
+      "remedy": "Maintain storage"
+    },
+    "protein": {
+      "value": 7.0,
+      "unit": "%",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Moderate Protein",
+      "problem": "Moderate protein level",
+      "remedy": "Maintain/adjust ration"
+    },
+    "moisture": {
+      "value": 12.5,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "reason": "pH requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T07:05:45.339246+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 4.8,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Normal",
+      "problem": "Low concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.5,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T07:12:35.343549+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 4.8,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Normal",
+      "problem": "Low concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.8,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T07:21:33.947336+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 4.8,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Normal",
+      "problem": "Low concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 11.1,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T08:34:44.827716+00:00",
+    "input_method": "upload",
+    "ph": {
+      "value": 3.0,
+      "unit": "pH",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Highly acidic",
+      "problem": "High acidity",
+      "remedy": "Check fermentation/storage"
+    },
+    "ammonia": {
+      "value": 1.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Low",
+      "problem": "Low ammonia",
+      "remedy": "Maintain storage"
+    },
+    "protein": {
+      "value": 7.0,
+      "unit": "%",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Moderate Protein",
+      "problem": "Moderate protein level",
+      "remedy": "Maintain/adjust ration"
+    },
+    "moisture": {
+      "value": 12.5,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "pH requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T08:36:14.549895+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.4,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T08:36:14.577553+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.4,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T08:40:56.602237+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.8,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T08:41:51.071267+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.5,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Possible change",
+      "remedy": "Monitor feed"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.8,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T09:02:02.364871+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 10.8,
+      "unit": "%",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Moisture is within the preferred range.",
+      "problem": "No immediate moisture concern.",
+      "remedy": "Maintain current storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T09:30:51.675083+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.5,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Possible change",
+      "remedy": "Monitor feed"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 15.0,
+      "unit": "%",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Moisture is moderately elevated.",
+      "problem": "Monitor storage and feed stability.",
+      "remedy": "Review drying and storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-15T12:36:35.177148+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 15.0,
+      "unit": "%",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Moisture is moderately elevated.",
+      "problem": "Monitor storage and feed stability.",
+      "remedy": "Review drying and storage conditions.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-18T16:16:33.282476+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 7.6,
+      "unit": "pH",
+      "status": "MODERATE",
+      "status_color": "yellow",
+      "condition": "Alkaline",
+      "problem": "Quality change possible",
+      "remedy": "Inspect feed"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 44.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Moisture is above the acceptable range.",
+      "problem": "Higher moisture may affect feed quality and storage stability.",
+      "remedy": "Review drying and storage immediately.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  },
+  {
+    "created_at": "2026-09-18T16:18:48.959720+00:00",
+    "input_method": "camera",
+    "ph": {
+      "value": 5.7,
+      "unit": "pH",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Slightly acidic",
+      "problem": "Low concern",
+      "remedy": "Monitor"
+    },
+    "ammonia": {
+      "value": 0.0,
+      "unit": "ppm",
+      "status": "GOOD",
+      "status_color": "green",
+      "condition": "Very low ammonia",
+      "problem": "No major ammonia concern",
+      "remedy": "Continue monitoring"
+    },
+    "protein": {
+      "value": 2.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Very Low Protein",
+      "problem": "Protein deficiency",
+      "remedy": "Improve protein-rich feed"
+    },
+    "moisture": {
+      "value": 22.0,
+      "unit": "%",
+      "status": "BAD",
+      "status_color": "red",
+      "condition": "Moisture is above the acceptable range.",
+      "problem": "Higher moisture may affect feed quality and storage stability.",
+      "remedy": "Review drying and storage immediately.",
+      "input_method": "manual"
+    },
+    "overall": {
+      "status": "BAD",
+      "status_color": "red",
+      "reason": "Protein requires attention."
+    }
+  }
+]

@@ -1,0 +1,51 @@
+No.,Color,Ammonia (ppm),Range,Condition,Problem,Remedy
+1,Very pale yellow,0,Very Low,Very low ammonia,No major ammonia concern,Continue monitoring
+2,Pale yellow,0.2,Very Low,Very low,No major concern,Maintain storage
+3,Pale yellow,0.4,Very Low,Very low,No major concern,Continue monitoring
+4,Light yellow,0.6,Low,Low,Low ammonia,Monitor feed
+5,Light yellow,0.8,Low,Low,Low ammonia,Monitor feed
+6,Yellow,1,Low,Low,Low ammonia,Maintain storage
+7,Yellow,1.2,Low,Low,Low ammonia,Continue monitoring
+8,Yellow,1.4,Low,Low,Low ammonia,Continue monitoring
+9,Yellow-green,1.6,Low,Low,Low ammonia,Monitor
+10,Yellow-green,1.8,Low,Low,Low ammonia,Monitor
+11,Light green,2,Normal,Normal,No major concern,Continue monitoring
+12,Light green,2.2,Normal,Normal,No major concern,Maintain storage
+13,Green,2.4,Normal,Normal,No major concern,Continue monitoring
+14,Green,2.6,Normal,Normal,No major concern,Continue monitoring
+15,Green,2.8,Normal,Normal,No major concern,Maintain storage
+16,Green,3,Normal,Normal,No major concern,Continue monitoring
+17,Green,3.2,Normal,Normal,No major concern,Maintain storage
+18,Green,3.4,Normal,Normal,No major concern,Continue monitoring
+19,Green-blue,3.6,Normal,Normal,Low concern,Monitor
+20,Green-blue,3.8,Normal,Normal,Low concern,Monitor
+21,Blue-green,4,Normal,Normal,Low concern,Continue monitoring
+22,Blue-green,4.2,Normal,Normal,Low concern,Continue monitoring
+23,Blue-green,4.4,Normal,Normal,Low concern,Maintain storage
+24,Blue-green,4.6,Normal,Normal,Low concern,Maintain storage
+25,Light blue,4.8,Normal,Normal,Low concern,Continue monitoring
+26,Light blue,5,Normal,Normal,Low concern,Continue monitoring
+27,Light blue,5.5,Normal,Normal,Monitor level,Monitor feed
+28,Blue,6,Elevated,Elevated ammonia,Possible quality change,Check feed condition
+29,Blue,6.5,Elevated,Elevated,Quality concern,Check storage
+30,Blue,7,Elevated,Elevated,Possible deterioration,Inspect feed
+31,Dark blue,7.5,Elevated,Elevated,Quality concern,Additional testing
+32,Dark blue,8,Elevated,Elevated,Quality concern,Check feed
+33,Dark blue,8.5,Elevated,Elevated,Possible deterioration,Additional testing
+34,Dark blue,9,Elevated,Elevated,Quality concern,Isolate sample
+35,Dark blue,10,High,High ammonia,Possible spoilage,Additional testing
+36,Very dark blue,11,High,High ammonia,Quality concern,Isolate sample
+37,Very dark blue,12,High,High ammonia,Possible spoilage,Additional testing
+38,Very dark blue,13,High,High ammonia,Strong concern,Do not rely on color alone
+39,Very dark blue,14,High,High ammonia,Strong concern,Additional testing
+40,Purple-blue,15,High,High ammonia,Serious concern,Isolate sample
+41,Purple-blue,16,Very High,Very high ammonia,Serious quality concern,Additional testing
+42,Purple-blue,17,Very High,Very high,Serious concern,Isolate sample
+43,Dark purple,18,Very High,Very high,Possible severe deterioration,Additional testing
+44,Dark purple,20,Very High,Very high,Serious concern,Do not feed until assessed
+45,Dark purple,22,Very High,Very high,Serious concern,Additional testing
+46,Very dark purple,24,Very High,Very high,Serious concern,Isolate sample
+47,Very dark purple,26,Very High,Very high,Serious concern,Additional testing
+48,Very dark purple,28,Very High,Very high,Serious concern,Do not feed until assessed
+49,Very dark purple,30,Very High,Very high,Severe concern,Additional testing
+50,Extremely dark purple,35,Very High,Very high,Severe ammonia level,Do not rely on test alone; assess sample

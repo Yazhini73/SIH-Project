@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+{% block title %}FeedSense AI | Scan{% endblock %}
+{% block content %}
+<section class="page-heading"><p class="eyebrow">Scan</p><h1>Capture the complete strip</h1><p>Place all six chambers inside the frame. Moisture is entered manually below.</p></section>
+<section class="scan-layout">
+  <div class="camera-panel">
+    <h2>Live Camera</h2>
+    <p>Open the built-in computer webcam, capture one complete strip, then confirm the preview.</p>
+    <video id="camera" autoplay playsinline muted hidden></video>
+    <canvas id="snapshot" hidden></canvas>
+    <img id="captured-preview" alt="Captured complete strip preview" hidden>
+    <div id="camera-placeholder" class="camera-placeholder">Camera preview will appear here.</div>
+    <div class="controls"><button class="button" id="start-camera" type="button">Open Camera</button><button class="button secondary" id="capture" type="button" disabled hidden>Capture Photo</button><button class="button secondary" id="retake" type="button" hidden>Retake</button><button class="button secondary" id="use-camera-image" type="button" hidden>Use This Image</button></div>
+    <p id="camera-message" class="message" role="alert"></p>
+  </div>
+  <form id="scan-form" class="scan-form">
+    <h2>Upload Full Strip Image</h2>
+    <p>Select one existing complete six-chamber strip image. Camera permission is not needed for upload mode.</p>
+    <label for="strip-image">Choose Image</label>
+    <input id="strip-image" name="strip_image" type="file" accept="image/*">
+    <img id="upload-preview" alt="Selected complete strip preview" hidden>
+    <p id="current-image" class="input-note">No scan image selected.</p>
+    <label for="moisture">Moisture (%)</label>
+    <input id="moisture" name="moisture" type="number" min="0" step="0.1" required>
+    <button class="button" type="submit">Analyze Feed</button>
+    <p id="scan-message" class="message" role="alert"></p>
+  </form>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ url_for('static', filename='js/scan.js') }}"></script>{% endblock %}

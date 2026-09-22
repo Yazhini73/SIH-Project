@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}FeedSense AI{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="{{ url_for('home') }}">FeedSense <span>AI</span></a>
+  <nav aria-label="Main navigation">
+    <a href="{{ url_for('page', page='scan') }}">Scan</a>
+    <a href="{{ url_for('page', page='results') }}">Results</a>
+    <a href="{{ url_for('page', page='dashboard') }}">Dashboard</a>
+    <a href="{{ url_for('page', page='history') }}">History</a>
+    <a href="{{ url_for('page', page='how-it-works') }}">How it works</a>
+  </nav>
+</header>
+<main>{% block content %}{% endblock %}</main>
+<footer>FeedSense AI · Prototype analysis requires calibrated reference data and trained chamber models.</footer>
+<script src="{{ url_for('static', filename='js/voice.js') }}"></script>
+{% block scripts %}{% endblock %}
+</body>
+</html>

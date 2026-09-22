@@ -1,0 +1,25 @@
+{
+  "coordinate_system": "normalized",
+  "calibration_status": "not_calibrated",
+  "strip_detection": {
+    "min_area_ratio": 0.01,
+    "max_area_ratio": 0.98,
+    "blur_threshold": null
+  },
+  "layout": {
+    "axis": "auto",
+    "margin_ratio": 0.08,
+    "position_order": ["ph_acid", "ph_alkaline", "moisture", "ammonia", "protein", "control"]
+  },
+  "validation": {
+    "minimum_control_mean": 1.0
+  },
+  "chambers": {
+    "ph_acid": {"x": null, "y": null, "width": null, "height": null},
+    "ph_alkaline": {"x": null, "y": null, "width": null, "height": null},
+    "ammonia": {"x": null, "y": null, "width": null, "height": null},
+    "protein": {"x": null, "y": null, "width": null, "height": null},
+    "moisture": {"x": null, "y": null, "width": null, "height": null},
+    "control": {"x": null, "y": null, "width": null, "height": null}
+  }
+}

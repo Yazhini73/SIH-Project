@@ -1,0 +1,15 @@
+{% extends 'layout.html' %}
+{% block title %}FeedSense AI | Home{% endblock %}
+{% block content %}
+<section class="hero">
+  <p class="eyebrow">Rapid feed and silage checks</p>
+  <h1>One strip. A clearer feed decision.</h1>
+  <p>Capture one complete six-chamber test strip, enter moisture manually, and receive a structured quality report when your calibrated data and models are ready.</p>
+  <a class="button" href="{{ url_for('page', page='scan') }}">Start a scan</a>
+</section>
+<section class="feature-grid">
+  <article><strong>ONE PHOTO</strong><p>The scan workflow accepts the complete strip, not separate chamber images.</p></article>
+  <article><strong>FOUR RESULTS</strong><p>pH, ammonia, protein, and manual moisture remain independent.</p></article>
+  <article><strong>HONEST OUTPUT</strong><p>Unavailable models and unconfigured references are reported instead of guessed.</p></article>
+</section>
+{% endblock %}
